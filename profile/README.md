@@ -30,6 +30,35 @@
 
 <table align="center">
   <tr>
+    <td align="center"><img src="https://bmp.blockinsight.top/?t=b" width="40"/></td>
+    <td align="center"><img src="https://bmp.blockinsight.top/?t=i" width="40"/></td>
+    <td align="center"><img src="https://bmp.blockinsight.top/?t=t" width="40"/></td>
+    <td align="center"><img src="https://bmp.blockinsight.top/?t=m" width="40"/></td>
+    <td align="center"><img src="https://bmp.blockinsight.top/?t=a" width="40"/></td>
+    <td align="center"><img src="https://bmp.blockinsight.top/?t=p" width="40"/></td>
+    <td align="center"><img src="https://bmp.blockinsight.top/?t=p" width="40"/></td>
+    <td align="center"><img src="https://bmp.blockinsight.top/?t=u" width="40"/></td>
+    <td align="center"><img src="https://bmp.blockinsight.top/?t=n" width="40"/></td>
+    <td align="center"><img src="https://bmp.blockinsight.top/?t=k" width="40"/></td>
+    <td align="center"><img src="https://bmp.blockinsight.top/?t=s" width="40"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>b</b></td>
+    <td align="center"><b>i</b></td>
+    <td align="center"><b>t</b></td>
+    <td align="center"><b>m</b></td>
+    <td align="center"><b>a</b></td>
+    <td align="center"><b>p</b></td>
+    <td align="center"><b>p</b></td>
+    <td align="center"><b>u</b></td>
+    <td align="center"><b>n</b></td>
+    <td align="center"><b>k</b></td>
+    <td align="center"><b>s</b></td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
     <td align="center"><img src="https://bmp.blockinsight.top/?t=BITMAPPUNKS" width="40"/></td>
   </tr>
   <tr>
