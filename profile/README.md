@@ -57,11 +57,3 @@
   </tr>
 </table>
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://bmp.blockinsight.top/?t=BITMAPPUNKS" width="40"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>BITMAPPUNKS</b></td>
-  </tr>
-</table>
